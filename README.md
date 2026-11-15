@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/juanpablo-floresvillarreal/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:jpfloresv06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;
-<a href="https://github.com/isjpop"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 
 </div>
 
