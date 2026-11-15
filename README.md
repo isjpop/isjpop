@@ -90,6 +90,6 @@ I build software that saves real time and money. At **Cisco** I built incident t
 
 <div align="center">
 
-**Outside of code:** Personal Finance · Chess · Cubing · Running · Cars
+**Outside of code:** Personal Finance · Photography · Traveling · Running · Cars
 
 </div>
