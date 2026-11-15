@@ -77,13 +77,13 @@ I build software that saves real time and money. At **Cisco** I built incident t
 
 ### Featured projects
 
-**Personal website: (https://juan-pablo-flores-villarreal.onrender.com/)**: a scroll-driven 3D drive through a twilight mountain road. A great way to learn about me while going on a scenic drive.
+**Personal website (https://juan-pablo-flores-villarreal.onrender.com/)**: a scroll-driven 3D drive through a twilight mountain road. A great way to learn about me while going on a scenic drive.
 `React` `Three.js` `React Three Fiber` `TypeScript` `Vite`
 
 **Life Leaf**: *Congressional App Challenge Finalist*. An iOS wellness app that tracks sleep, exercise and habits, detects changes over time, and sends personalized notifications. Its database scales to 10,000+ users.
 `Swift` `SwiftUI` `Realm`
 
-**Breifly**: My source of daily news. Fetches from various sources across finance, business, technology, and breaking news. Utilizines Gemini to summarize articles for quick insight.
+**Breifly (https://github.com/isjpop/breifly)**: My source of daily news. Fetches from various sources across finance, business, technology, and breaking news. Utilizines Gemini to summarize articles for quick insight.
 `React` `TypeScript` `Flask` `Docker` 
 
 ---
